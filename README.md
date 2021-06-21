@@ -1,6 +1,6 @@
 ### Hello World! 👏
 ###  对不起,此账户已经迁移至gitee码云
-![码云地址](https://www.gitee.com/yzqdev)
+[码云地址](https://www.gitee.com/yzqdev)
 
 <!--
 **yzqdev/yzqdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
