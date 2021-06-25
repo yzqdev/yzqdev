@@ -1,5 +1,5 @@
 ### Hello World! 👏
-###  对不起,此账户已经迁移至gitee码云
+###  See more on gitee.
 [码云地址](https://www.gitee.com/yzqdev)
 
 <!--
