@@ -1,6 +1,6 @@
 ### Hello World! 👏
-## 由于github有时候访问太慢,大多数项目都在码云上
-###  See more on gitee.[码云地址](https://www.gitee.com/yzqdev)
+
+###  See more on gitee.[link](https://www.gitee.com/yzqdev)
 
 
 <!--
