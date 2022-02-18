@@ -1,6 +1,5 @@
 ### Hello World! 👏
 
-###  See more on gitee.[link](https://www.gitee.com/yzqdev)
 
 
 
