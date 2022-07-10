@@ -2,14 +2,15 @@
 
 ## 🎍 My Skills
 
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![https://github.com/yzqdev](https://skillicons.dev/icons?i=go,dart,java,html,css,ts,vue,cs,py,vite,nodejs,blender,flutter,electron,postgres,vscode,visualstudio,github,linux,md,mysql,stackoverflow,ps)
+<!-- ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+![Dart](https://img.shields.io/badge/-dart-black?style=flat-square&logo=dart)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
+![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![Csharp](https://img.shields.io/badge/-Csharp-black?style=flat-square&logo=csharp&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![TypeScript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript&logoColor=FFFFFF)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white)
-![Fastapi](https://img.shields.io/badge/-Fastapi-black?style=flat-square&logo=fastapi&logoColor=FFFFFF)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white) -->
 
 ## ⚡Tool
 
