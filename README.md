@@ -23,8 +23,10 @@
 ![Linux](https://img.shields.io/badge/-LinuxMint-8ec76f?style=flat-square&logo=linuxmint&logoColor=FFFFFF)
 ![windows](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)
 
- ![](https://raw.githubusercontent.com/yzqdev/yzqdev/main/profile-summary-card-output/vue/0-profile-details.svg)
- ![](https://raw.githubusercontent.com/yzqdev/yzqdev/main/profile-summary-card-output/vue/1-repos-per-language.svg)  ![](https://raw.githubusercontent.com/yzqdev/yzqdev/main/profile-summary-card-output/vue/2-most-commit-language.svg)
- ![](https://raw.githubusercontent.com/yzqdev/yzqdev/main/profile-summary-card-output/vue/3-stats.svg)   ![](https://raw.githubusercontent.com/yzqdev/yzqdev/main/profile-summary-card-output/vue/4-productive-time.svg)
+![](https://raw.githubusercontent.com/yzqdev/yzqdev/main/profile-summary-card-output/vue/0-profile-details.svg)
+![](https://raw.githubusercontent.com/yzqdev/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/yzqdev/github-stats/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/yzqdev/yzqdev/main/profile-summary-card-output/vue/1-repos-per-language.svg)  
+![](https://raw.githubusercontent.com/yzqdev/yzqdev/main/profile-summary-card-output/vue/4-productive-time.svg)
 
 ![snake](https://raw.githubusercontent.com/yzqdev/yzqdev/output/github-snake.svg)
