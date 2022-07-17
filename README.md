@@ -26,7 +26,5 @@
 ![](https://raw.githubusercontent.com/yzqdev/yzqdev/main/profile-summary-card-output/vue/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/yzqdev/github-stats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/yzqdev/github-stats/master/generated/languages.svg)
-![](https://raw.githubusercontent.com/yzqdev/yzqdev/main/profile-summary-card-output/vue/1-repos-per-language.svg)  
-![](https://raw.githubusercontent.com/yzqdev/yzqdev/main/profile-summary-card-output/vue/4-productive-time.svg)
-
+![](https://raw.githubusercontent.com/yzqdev/yzqdev/main/profile-summary-card-output/vue/1-repos-per-language.svg)  ![](https://raw.githubusercontent.com/yzqdev/yzqdev/main/profile-summary-card-output/vue/4-productive-time.svg)
 ![snake](https://raw.githubusercontent.com/yzqdev/yzqdev/output/github-snake.svg)
