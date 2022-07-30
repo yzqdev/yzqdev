@@ -15,6 +15,7 @@
 ## ⚡Tool
 
 ![VsCode](https://img.shields.io/badge/-VSCode-007acc?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+![Goland](https://img.shields.io/badge/-Goland-28c19b?style=flat-square&logo=goland&logoColor=FFFFFF)
 ![Webstorm](https://img.shields.io/badge/-Webstorm-000000?style=flat-square&logo=webstorm&logoColor=FFFFFF)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=FFFFFF)
 ![Cinema4D](https://img.shields.io/badge/-Cinema4D-011A6A?style=flat-square&logo=Cinema4D)
@@ -27,4 +28,12 @@
 ![](https://raw.githubusercontent.com/yzqdev/github-stats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/yzqdev/github-stats/master/generated/languages.svg)
 ![](https://raw.githubusercontent.com/yzqdev/yzqdev/main/profile-summary-card-output/vue/1-repos-per-language.svg)  ![](https://raw.githubusercontent.com/yzqdev/yzqdev/main/profile-summary-card-output/vue/4-productive-time.svg)
+
+## recommends
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=element-plus&repo=element-plus)](https://github.com/element-plus/element-plus)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evanw&repo=esbuild)](https://github.com/evanw/esbuild)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flutter&repo=flutter)](https://github.com/flutter/flutter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vueuse&repo=vueuse)](https://github.com/vueuse/vueuse)
+
 ![snake](https://raw.githubusercontent.com/yzqdev/yzqdev/output/github-snake.svg)
