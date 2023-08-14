@@ -36,4 +36,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flutter&repo=flutter)](https://github.com/flutter/flutter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vueuse&repo=vueuse)](https://github.com/vueuse/vueuse)
 
-![snake](https://raw.githubusercontent.com/yzqdev/yzqdev/output/github-snake.svg)
+![snake](https://raw.githubusercontent.com/yzqdev/yzqdev/output/github-contribution-grid-snake.svg)
