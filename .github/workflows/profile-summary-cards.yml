@@ -11,7 +11,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate
-
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v2
       - uses: vn7n24fzkq/github-profile-summary-cards@release
@@ -20,17 +21,29 @@ jobs:
         with:
           USERNAME: yzqdev
       
-      - name: Generate pin card
-        uses: stats-organization/github-readme-stats-action@v2
+     
+      - uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
           options: username=element-plus&repo=element-plus
           path: profile/pin-element-plus-element-plus.svg
           token: ${{ secrets.GITHUB_TOKEN }}      
-      - name: Generate pin card
-        uses: stats-organization/github-readme-stats-action@v2
+      - uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
           options: username=wailsapp&repo=wails
           path: profile/pin-wailsapp-wails.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=flutter&repo=flutter
+          path: profile/pin-flutter-flutter.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=vueuse&repo=vueuse
+          path: profile/pin-vueuse-vueuse.svg
           token: ${{ secrets.GITHUB_TOKEN }}
