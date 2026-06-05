@@ -19,3 +19,18 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: yzqdev
+      
+      - name: Generate pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=element-plus&repo=element-plus
+          path: profile/pin-element-plus-element-plus.svg
+          token: ${{ secrets.GITHUB_TOKEN }}      
+      - name: Generate pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=wailsapp&repo=wails
+          path: profile/pin-wailsapp-wails.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
