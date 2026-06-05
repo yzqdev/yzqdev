@@ -33,7 +33,8 @@
 
 ![Pinned](./profile/pin-element-plus-element-plus.svg)
 ![Pinned](./profile/pin-wailsapp-wails.svg)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flutter&repo=flutter)](https://github.com/flutter/flutter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vueuse&repo=vueuse)](https://github.com/vueuse/vueuse)
+ ![Pinned](./profile/pin-flutter-flutter.svg)
+![Pinned](./profile/pin-vueuse-vueuse.svg)
+ 
 
 ![snake](https://raw.githubusercontent.com/yzqdev/yzqdev/output/github-contribution-grid-snake.svg)
